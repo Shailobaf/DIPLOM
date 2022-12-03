@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "vr",
+=======
+  "name": "vue1",
+>>>>>>> d580346049eb0eca3f213381a46cbd506cdc792a
   "version": "0.1.0",
   "private": true,
   "scripts": {
